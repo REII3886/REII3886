@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://github.com/PanzR01">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=6000&color=87CEEB&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+PanzR01+offc;I+am+is+a+developer+bot+whatsapp;how+was+your+day?+🧑‍💻"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=6000&color=87CEEB&background=FF673200&center=true&vCenter=true&lines=hi,+perkenalkan+saya+PanzR01+offc;saya+developer+bot+whatsapp;meskipun+kadang²+ngerename+🗿"
             alt="Typing SVG"
         />
     </a>
