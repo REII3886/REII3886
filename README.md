@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/kjtyLVO.jpeg" alt="Cool Boys 🧑‍💻" />
+  <img src="https://i.imgur.com/YLBHZi9.jpeg" alt="Cool Boys 🧑‍💻" />
   <br />
   <i>Cool Boys 🧑‍💻</i>
     <h3 align="center">A passionate frontend developer from Indonesia</h3>
