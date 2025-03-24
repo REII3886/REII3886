@@ -15,7 +15,7 @@
   <i>Cool Boys 🧑‍💻</i>
     <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">What is it?</h3>
 <p align="left">
 </p>
 
